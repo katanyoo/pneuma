@@ -1,0 +1,34 @@
+{
+  "name": "pneuma",
+  "version": "0.0.1",
+  "description": "CLI to manage the project that created by Pneuma CLI",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pneuma",
+    "cli",
+    "node.js",
+    "react",
+    "redux",
+    "sagas"
+  ],
+  "author": "Katanyoo Ubalee",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katanyoo/pneuma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katanyoo/pneuma/issues"
+  },
+  "homepage": "https://github.com/katanyoo/pneuma#readme"
+}
