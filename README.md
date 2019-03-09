@@ -2,7 +2,7 @@
 ```
 $ yarn global add pneuma-cli
 $ pneuma 
-  * Input project's name
+  * Input project name
   * Choose project template
-$ cd PizzaApp
+$ cd <Project name>
 ```
