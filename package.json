@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/katanyoo/pneuma/issues"
   },
-  "homepage": "https://github.com/katanyoo/pneuma#readme"
+  "homepage": "https://github.com/katanyoo/pneuma#readme",
+  "bin": {
+    "pneuma": "./index.js"
+  }
 }
