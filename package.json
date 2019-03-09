@@ -1,5 +1,5 @@
 {
-  "name": "pneuma",
+  "name": "pneuma-cli",
   "version": "0.0.1",
   "description": "CLI to manage the project that created by Pneuma CLI",
   "main": "index.js",
