@@ -1,4 +1,4 @@
-### Install
+### 🌪️ Install
 ```
 $ yarn global add pneuma-cli
 $ pneuma 
